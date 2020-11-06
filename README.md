@@ -7,19 +7,20 @@
 - 25/11 : 
   - Inscriptions à un sujet
   - Appropriation du sujet / Lecture de documents
+  - Téléchargement des outils ou récupération du matériel si besoin
 
 - 04/12 : 
+  - Prise en main de l'environnement de travail
   - Voir si besoin de composants à commander
   - Organisation **obligatoire** de votre Board Issues Gitlab
   - Premier commit **obligatoire** à pousser sur GitLab
 
 - 11/12 :
-  - Prise en main de l'environnement de travail
-  - Dernier délai pour passer d'éventuelle commandes
+  - Dernier délai pour passer d'éventuelles commandes
 
 - 14/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*
 
-- 21/01 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
+- 21/01 : Soutenances. Fin des commit sur GitLab à 16h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
 
 - 22/01 : Travail complémentaire si exigé par les profs :
   - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v2.0*
