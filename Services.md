@@ -24,9 +24,6 @@ Développer un service de reconnaissance d'objets ou d’interprétations associ
 - Un Dockerfile (et docker-compose en option) pour lancer votre serveur sur n'importe quelle machine 
 - Intégration continue sur GitLab permettant que valider le fonctionnement des codes
 
-## Zone de liberté : 
-- Type de dataset à définir dans le groupe avec le prof
-
 
 ## Technologies
 * Python, Webservices, Flask
