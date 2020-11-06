@@ -4,26 +4,25 @@
 
 ![GitLab Board](https://raw.githubusercontent.com/cpe-majeure-robotique/S9-Project-19-20/master/images/GitLab_Board.png)
 
-- 10/12 : 
+- 25/11 : 
+  - Inscriptions à un sujet
   - Appropriation du sujet / Lecture de documents
+
+- 04/12 : 
   - Voir si besoin de composants à commander
   - Organisation **obligatoire** de votre Board Issues Gitlab
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 13/12 :
-  - Prise en main du matériel
+- 11/12 :
+  - Prise en main de l'environnement de travail
   - Dernier délai pour passer d'éventuelle commandes
 
-- 10/12 - 10/01 : Projet (phase 1)
+- 14/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé vIntermediate
 
-- 10/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)**
+- 21/01 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag** nommé v1.0
 
-- 13/01 - 22/01 : Projet (phase 2)
-
-- 23/01 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag**
-
-- 24/01 : Travail complémentaire si exigé par les profs :
-  - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
+- 22/01 : Travail complémentaire si exigé par les profs :
+  - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé v2.0
 
 
 # Rendus : 
@@ -48,7 +47,7 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu jeudi 23 janvier de **7h45 à 13h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu jeudi 21 janvier de **7h45 à 13h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
