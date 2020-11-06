@@ -17,12 +17,12 @@
   - Prise en main de l'environnement de travail
   - Dernier délai pour passer d'éventuelle commandes
 
-- 14/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé vIntermediate
+- 14/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*
 
-- 21/01 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag** nommé v1.0
+- 21/01 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
 
 - 22/01 : Travail complémentaire si exigé par les profs :
-  - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé v2.0
+  - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v2.0*
 
 
 # Rendus : 
