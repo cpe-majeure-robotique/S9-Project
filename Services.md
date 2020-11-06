@@ -33,8 +33,7 @@ Développer un service de reconnaissance d'objets ou d’interprétations associ
 * Docker
 * ROS/Naoqi
 
-
-## Aide
-* [Exemple d'un serveur **Flask** sur Google Colab] (https://medium.com/@kshitijvijay271199/flask-on-google-colab-f6525986797b)
+## Aide
+* [Exemple très simple d'un serveur **Flask** sur Google Colab] (https://medium.com/@kshitijvijay271199/flask-on-google-colab-f6525986797b)
 * [Excellent tuto sur Docker (suivre les 3 vidéos)](https://www.youtube.com/watch?v=SXB6KJ4u5vg)
 
