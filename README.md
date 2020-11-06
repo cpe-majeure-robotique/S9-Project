@@ -78,7 +78,7 @@
 
 - Le critère de qualité du rendu comprend : 
   - La qualité du code et la qualité globale de la restitution
-  - Les commits GitLab et l'évolution du Board Issues de gitLab **au quotidien**
+  - Les commits GitLab et l'évolution du Board Issues de gitLab **au quotidien**. Un minimum de 1 commit par personne (pas par groupe) devra être poussé toutes les 4h de projet, sans quoi il y aura des **pénalités** par commit manquant.
 
 - J’attire votre attention sur le fait que le coef le plus élevé est une **note individuelle**. Aussi, un projet n’est pas validé d’office… un ancien étudiant de la majeure en a déjà fait les frais
 
