@@ -22,7 +22,7 @@ Développer un service de reconnaissance d'objets ou d’interprétations associ
 
 ### Optionnel mais recommandé :
 - Un Dockerfile (et docker-compose en option) pour lancer votre serveur sur n'importe quelle machine 
-- Intégration continue sur GitLab permettant que valider le fonctionnement des codes
+- Intégration continue sur GitLab permettant de valider le fonctionnement des codes
 
 
 ## Technologies
