@@ -89,6 +89,6 @@
 |-| -------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
 |1| [Services IA Cloud pour Robots et/ou Zoo](Services.md)   | illimité (28)  |  1 à 3        |   dist   |  faible          |
 |2| [Robocup - Manipulation d'objets à la maison](Robocup.md)| illimité (28)  |  1 à 3        |   dist   |  Min i5, 8Go Ram, carte graphique, Ubuntu Natif       |
-|3| [IoT avec ESP32/STM32 embarquant de l'IA](IoT.md)        | 3              |  1 à 2        |   dist   |  faible, plus souple avec Ubuntu Natif |
+|3| [Google Home avec IoT ESP32/STM32 embarquant de l'IA](IoT.md)        | 3              |  1 à 2        |   dist   |  faible, plus souple avec Ubuntu Natif |
 
 
