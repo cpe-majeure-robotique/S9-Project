@@ -2,7 +2,8 @@
 ![Yolo](https://raw.githubusercontent.com/cpe-majeure-robotique/S9-Project-19-20/master/images/yolo_darknet.png)
 
 ## Objectifs
-Saisir et déplacer des objets dans le scénario "Clean Up" de la robocup@home en version simulé (Gazebo).
+Saisir et déplacer des objets dans le scénario "Clean Up" de la robocup@home en version simulé (Gazebo).  
+
 ![Gazebo](https://github.com/cpe-majeure-robotique/S9-Project-20-21/blob/main/img/gazebo.gif)
 
 ## Résultats attendus
@@ -12,7 +13,7 @@ Saisir et déplacer des objets dans le scénario "Clean Up" de la robocup@home e
   - avec un bras UR3 et un gripper à définir avec le prof
 - Prouver la robustesse en lançant une série de plusieurs simu avec de la variabilité
 
-![PALbator](https://robocup-lyontech.github.io/assets/images/opl/OPLPlateformev3t.png)
+<img src="/assets/images/opl/OPLPlateformev3t.png" align="right" width="90" />
 
 ## Technologies
 * ROS
