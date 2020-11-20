@@ -13,7 +13,7 @@ Saisir et déplacer des objets dans le scénario "Clean Up" de la robocup@home e
   - avec un bras UR3 et un gripper à définir avec le prof
 - Prouver la robustesse en lançant une série de plusieurs simu avec de la variabilité
 
-<img src="/assets/images/opl/OPLPlateformev3t.png" align="right" width="90" />
+<img src="https://robocup-lyontech.github.io/assets/images/opl/OPLPlateformev3t.png" align="right" width="180" />
 
 ## Technologies
 * ROS
