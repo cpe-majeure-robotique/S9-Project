@@ -91,4 +91,5 @@
 |2| [Robocup - Manipulation d'objets à la maison](Robocup.md)| illimité (28)  |  1 à 3        |   dist   |  Min i5, 8Go Ram, carte graphique, Ubuntu Natif       |
 |3| [Google Home avec IoT ESP32/STM32 embarquant de l'IA](IoT.md)        | 3              |  1 à 2        |   dist   |  faible, plus souple avec Ubuntu Natif |
 
-
+# Aides :
+- [Tuto GIT](https://www.youtube.com/watch?v=gp_k0UVOYMw)
