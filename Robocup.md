@@ -3,7 +3,7 @@
 
 ## Objectifs
 Saisir et déplacer des objets dans le scénario "Clean Up" de la robocup@home en version simulé (Gazebo).
-
+![Gazebo](https://github.com/cpe-majeure-robotique/S9-Project-20-21/blob/main/img/gazebo.gif)
 
 ## Résultats attendus
 - Reprendre et comprendre les codes associés à la robocup
