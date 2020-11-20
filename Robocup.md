@@ -18,3 +18,7 @@ Saisir et déplacer des objets dans le scénario "Clean Up" de la robocup@home e
 * MoveIt!
 * Python
 * darknet/TF
+
+## Liens utiles
+* [Site de l'équipe LyonTech](https://robocup-lyontech.github.io/) (CPE)
+* [Règlement de la Robocup](https://robocupathome.github.io/RuleBook/rulebook/master.pdf)
