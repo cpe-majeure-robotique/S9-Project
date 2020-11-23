@@ -19,7 +19,7 @@ Dans un environnement ROS/Gazebo, avec le robot de votre choix, effectuez un sc�
 - Détection 
 - Préhension
 
-## Exemples de scénario :
+## Exemples de scénarios :
 - Robot secouriste : 
   - Naviger pour trouver :
     - des victimes 
