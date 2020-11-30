@@ -12,7 +12,7 @@
 - 03/12 : 
   - Prise en main de l'environnement de travail
   - Voir si besoin de composants à commander
-  - Organisation **obligatoire** de votre Board Issues Gitlab
+  - Organisation **obligatoire** de votre [Board Issues Gitlab](https://www.youtube.com/watch?v=CiolDtBIOA0)
   - Premier commit **obligatoire** à pousser sur GitLab
 
 - 04/12 :
