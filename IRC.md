@@ -23,7 +23,7 @@
 
 - 04/01 : Début du second Sprint
 
-- 22/01 : Fin du second sprint
+- 21/01 : Fin du second sprint
   - Fin des commit sur GitLab à 13h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
   - Soutenances de 14h à 16h
 
