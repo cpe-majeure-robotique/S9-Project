@@ -23,9 +23,9 @@
 
 - 04/01 : Début du second Sprint
 
-- 21/01 : Fin du second sprint
-  - Fin des commit sur GitLab à 13h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
-  - Soutenances de 14h à 16h
+- 22/01 : Fin du second sprint
+  - Fin des commit sur GitLab à 9h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
+  - Soutenances de 10h à 12h
 
 - + : Travail complémentaire si exigé par les profs :
   - Livraison sous forme de **Tag** nommé *v2.0*
@@ -53,7 +53,7 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu vendre 22 janvier de **14h à 16h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu vendredi 22 janvier de **10h à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
