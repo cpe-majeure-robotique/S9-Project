@@ -26,10 +26,11 @@
 - 03/01 : Début du second Sprint
 
 - 20/01
-  -  Soutenances de 15h à 17h30
+  -  Soutenances de 15h à 17h30  
 
 - 21/01 : Fin du second sprint
-  - Fin des commit sur GitLab à 11h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
+  - Fin des commit sur GitLab à 11h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*  
+
 
 - + : Travail complémentaire si exigé par les profs :
   - Livraison sous forme de **Tag** nommé *v2.0*
