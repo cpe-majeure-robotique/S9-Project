@@ -20,7 +20,7 @@
   - Dernier délai pour passer d'éventuelles commandes
 
 - 17/12 : Fin du premier sprint
-  - Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*
+  - Rendu intermédiaire (complet, mais "brut", c'est à dire sans effort de forme) sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*
   - Mini-soutenance "à votre poste" dans l'après-midi
 
 - 03/01 : Début du second Sprint
