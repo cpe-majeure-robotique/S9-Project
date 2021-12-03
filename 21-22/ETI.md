@@ -88,9 +88,9 @@
 
 |N| Sujets                                                   | Nb groupes     | Pers. par grp |   Salle  |  Puissance Ordi  |
 |-| -------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
-|1| [Services IA Cloud pour Robots et/ou Zoo](Services.md)   | illimité (28)  |  1 à 3        |   dist   |  faible          |
+|1| [Services IA Cloud pour Robots et/ou Zoo](Services.md)   | illimité (28)  |  1 à 3        |   S. TP   |  faible          |
 |2| [Chaise roulante autonome](Wheelchair.md)| illimité (28)  |  1         |   2 à 4   |    Salle Rob     |
-|3| [Google Home avec IoT ESP32/STM32 embarquant de l'IA](IoT.md)| 3          |  1 à 3        |   dist   |  faible, plus souple avec Ubuntu Natif |
-|4| [ROS/Gazebo](ROS%20Gazebo.md)                              | illimité (28)  |  1 à 3        |   dist   |  Min i7, 8Go Ram, carte graphique, Ubuntu Natif
+|3| [Google Home avec IoT ESP32/STM32 embarquant de l'IA](IoT.md)| 3          |  1 à 3        |   S. TP   |  faible, plus souple avec Ubuntu Natif |
+|4| [ROS/Gazebo](ROS%20Gazebo.md)                              | illimité (28)  |  1 à 3        |   S. TP   |  Min i7, 8Go Ram, carte graphique, Ubuntu Natif
 # Aides :
 - [Tuto GIT](https://www.youtube.com/watch?v=gp_k0UVOYMw)
