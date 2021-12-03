@@ -16,7 +16,10 @@ Développer un service de reconnaissance d'objets ou d’interprétations associ
 - Une version IPYNB (fichier Jupiter Notebook pour google Colab par ex) pour déployer la partie Client (Exemples d'accès au service)
 
 ### Une option obligatoire au choix : 
+
 - Service permettant de dénombrer une espèce animale et de donner des indications sur son comportement (immobile, agité, en groupe, isolés, ou autre critères à définir en fonction de l'espèce)
+- Mettre en place un jeu de type safari photo avec un robot mobile à la recherche d'animeaux
+- Mettre en place un système de reconnaissance de cris d'animaux
 - Service permettant renseigner la composition de son frigo (Lait, Beurre, ...)
 - Proposition libre à valider par le prof
 
