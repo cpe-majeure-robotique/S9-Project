@@ -12,7 +12,7 @@ Développer un démonstrateur de maison connectée personnalisée utilisant l'as
 - Créez et implémentez un réseau de neurone dans un STM32/ESP32 dans la logique du scénario que vous avez défini (apprentissage sur Google Colab)
 - Créez sur le compte google que vous avez créé, une série de vidéo youtube sous forme de tutoriel pour chaque partie (TFLite, DialogFlow, ...)
 
-## Options
+## Options  
 - Usage de balises de géolocalisation Indoor (type UWB, modèle DW1001)
 
 

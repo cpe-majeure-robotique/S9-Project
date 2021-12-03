@@ -21,9 +21,9 @@
 
 - 13/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*. Soutenance  sur votre poste de travail entre 10h15 et 12h. Préparez un premier jeu de slides, une démo fonctionnelle (bien que incomplète), et une vidéo "brute" (sans montage) en cas d'échec de la démo. 
 
-- 20/01 : Soutenances de 8h15 à 12h. Fin des commit sur GitLab à 16h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
+- 20/01 : Soutenances. Fin des commit sur GitLab à 16h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
 
-- 21/01 : Travail complémentaire si exigé par les profs :
+- 24-28/01 : Travail complémentaire si exigé par les profs :
   - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v2.0*
 
 
@@ -49,7 +49,7 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu jeudi 21 janvier de **7h45 à 13h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu jeudi 20 janvier de **8h15 à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
