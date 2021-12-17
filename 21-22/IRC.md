@@ -81,13 +81,15 @@
 | Note de groupe                        | 25 %   |
 | Note individuelle                     | 75 %   |
 
-- Parmis les critères d'évaluation on retrouve :
-  - Le succès de votre projet
-  - La qualité du code et la qualité globale de la restitution (vidéo, doc, ...)
-  - La qualité de votre présentation (fond et forme)
-  - Le respect des bonnes pratiques 
-  
-- J’attire votre attention sur le fait que le coef le plus élevé est une **note individuelle**. Aussi, un projet n’est pas validé d’office… un ancien étudiant de la majeure en a déjà fait les frais
+- Les critères de qualité technique comprennent :
+
+- Le succès de votre projet
+  - Le respect des bonnes pratiques
+  - Le critère de qualité du rendu comprend :
+
+- La qualité du code et la qualité globale de la restitution
+  - Les commits GitLab et l'évolution du Board Issues de gitLab au quotidien. Un minimum de 1 commit par personne (pas par groupe) devra être poussé toutes les 4h de projet, sans quoi il y aura des pénalités par commit manquant.
+  - J’attire votre attention sur le fait que le coef le plus élevé est une note individuelle. Aussi, un projet n’est pas validé d’office… un ancien étudiant de la majeure en a déjà fait les frais
 
 # SUJETS :
 
