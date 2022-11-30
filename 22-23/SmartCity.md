@@ -9,8 +9,8 @@
   - gérer un feu seul
 - Développer des interfaces à ce manager :
   - obligatoire : driver ROS
-  - obligatoire : interface web (flask)
-  - optionnel : Appli mobile avec Flutter/Dart
+  - obligatoire : interface web 
+  - optionnel : Appli mobile avec Flutter/Dart (permet aussi de générer le web front obligatoire)
 
 
 ## Rendu spécifique au projet :
@@ -19,7 +19,7 @@
 
 
 ## Autres infos
-Il est recommandé de passer au travers d'un routeur wifi et d'utiliser des requêtes POST. Cependant, l'architecture est à valider dans une discussion avec le prof.  
+Il est recommandé de passer au travers d'un routeur wifi et d'utiliser des requêtes POST pour changer les états des feux. Il est recommandé que le back (lié au front we/mobile) soit fait avec Flask. Cependant, l'architecture est à valider dans une discussion avec le prof.  
 
 Le projet nécessite de maquetter une route, en collaboration avec le projet de Véhicule autonome
 
