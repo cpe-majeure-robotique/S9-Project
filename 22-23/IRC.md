@@ -23,10 +23,10 @@
 
 - 09/01 : Début du second Sprint
 
-- 19/01 : Fin du second sprint
-  - Fin des commit sur GitLab à 20h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
+- 19/01 : Présentation du meilleur projet dans le grand amphi (tous les 5A réunis) à 15h30
 
-- 20/01
+- 20/01 : Fin du second sprint
+  - Fin des commit sur GitLab à 9h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
   - Soutenances de 9h à 12h
 
 - + : Travail complémentaire si exigé par les profs :
