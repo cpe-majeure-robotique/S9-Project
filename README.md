@@ -1,5 +1,9 @@
 # Enoncés de projet 
 
+## 2023-2024
+- [ETI](23-24/ETI.md)
+- [IRC](23-24/IRC.md)
+
 ## 2022-2023
 - [ETI](22-23/ETI.md)
 - [IRC](22-23/IRC.md)
