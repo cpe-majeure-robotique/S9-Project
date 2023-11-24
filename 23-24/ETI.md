@@ -89,11 +89,10 @@
 
 |N| Sujets                                                   | Nb groupes     | Pers. par grp |   Salle  | Contrainte ordi  |
 |-| -------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
-|1| [Véhicule autonome](VehicAuto.md)                        |        2       |  2 à 3        |   I102   | GPU                 |
-|2| [Chaise roulante autonome](Wheelchair.md)                |        1       |  2 à 4        |   I102   | -                 |
-|3| [Radar routier](Radar.md)                                |        2       |  2 à 4        |   I102   | -                 |
-|4| [Robot joueur d'échecs](ChessRobot.md)                   |        1       |  2 à 4        |   I102   | -                 |
-|5| [Porte manteau robotisé](PorteManteau.md)                |        1       |  2 à 4        |   I102   | -                  |
+|1| [Véhicule autonome](VehicAuto)                        |        3       |  2 à 4        |   I102   |                  |
+|2| [Robocup - brique conversationnelle](Robocup_tts_stt)    |        5       |  1 à 2        |   I102   |                  |
+|3| [Robocup - brique vision](Robocup_Vision)                |        5       |  1 à 2        |   I102   |                  |
+
 
 
 # Aides :
