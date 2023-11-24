@@ -87,11 +87,11 @@
 
 # SUJETS :
 
-|N| Sujets                                                   | Nb groupes     | Pers. par grp |   Salle  | Contrainte ordi  |
-|-| -------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
-|1| [Véhicule autonome](VehicAuto)                        |        3       |  2 à 4        |   I102   |                  |
-|2| [Robocup - brique conversationnelle](Robocup_tts_stt)    |        5       |  1 à 2        |   I102   |                  |
-|3| [Robocup - brique vision](Robocup_Vision)                |        5       |  1 à 2        |   I102   |                  |
+|N| Sujets                                                    | Nb groupes     | Pers. par grp |   Salle  | Contrainte ordi  |
+|-| --------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
+|1| [\[Autonomous Crawler Fleet\] Elec de commande](VehicAuto)|        3       |  2 à 4        |   I102   |                  |
+|2| [\[Robocup\] Brique conversationnelle](Robocup_tts_stt)   |        5       |  1 à 2        |   I102   |                  |
+|3| [\[Robocup\] Brique vision](Robocup_Vision)               |        5       |  1 à 2        |   I102   |                  |
 
 
 
