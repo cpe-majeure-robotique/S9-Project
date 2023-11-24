@@ -19,7 +19,8 @@
   - Dernier délai pour passer d'éventuelles commandes
 
 - 15/12 : Fin du premier sprint
-  - Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*
+  - Présentation informelle des features du sprint 1, de 14h30 à 17h
+  - Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate* (avant 17h30) 
 
 - 08/01 : Début du second Sprint
 
