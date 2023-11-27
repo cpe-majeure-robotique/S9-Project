@@ -1,6 +1,6 @@
 # Robot Decision Maker avec LLM avec interaction vocale sur scénario GPSR
 
-![ontho](/S9-Project/23-24/img/ontho.webp)
+![ontho](img/ontho.webp)
 
 ## Objectifs
 
