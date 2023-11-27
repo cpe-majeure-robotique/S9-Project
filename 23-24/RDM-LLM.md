@@ -110,6 +110,6 @@ In-Context Decision Making](https://arxiv.org/pdf/2305.11598.pdf)
 
 - [Decision makers exemples](https://medium.com/@kamaljp/meet-langchains-cutting-edge-agents-4-revolutionary-ai-llm-powered-decision-makers-8677045e8a69)
 
-### Exemple de framework
-
+### Exemples de framework
+- [Langchain](https://github.com/langchain-ai/langchain)
 - [ROS-LLM](https://github.com/Auromix/ROS-LLM)
