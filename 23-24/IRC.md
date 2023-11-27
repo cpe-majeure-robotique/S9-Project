@@ -15,7 +15,7 @@
   - Organisation **obligatoire** de votre [Board Issues Gitlab](https://www.youtube.com/watch?v=CiolDtBIOA0)
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 14/12 :
+- 13/12 :
   - Dernier délai pour passer d'éventuelles commandes
 
 - 15/12 : Fin du premier sprint
