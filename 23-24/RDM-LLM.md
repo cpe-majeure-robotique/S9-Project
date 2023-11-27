@@ -84,7 +84,7 @@ Tasks:
 ```
 
 
-Si le modèle peut fonctionner en local c'est un vrai plus.
+Si le model peut fonctionner en local c'est un vrai plus.
 
 :memo: Si votre travail est réutilisé pour une publication, votre nom y sera associé.
 
