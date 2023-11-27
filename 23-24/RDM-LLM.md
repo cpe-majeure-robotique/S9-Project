@@ -21,7 +21,7 @@ Exemples de subdivision des tâches pour "Go to the kitchen and bring a banana" 
 - Search for "Banana"
 - Navigate to the Closest Reachable Position Near "Banana"
 - Refine "Banana" Position
-- Grasp "Banana" with Adaptive Gripper
+- Grasp "Banana" 
 - Verify Successful Grasp
 - Return to "Original Location" with "Banana"
 - Deliver "Banana" to "User"
