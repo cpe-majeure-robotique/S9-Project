@@ -88,6 +88,13 @@ Si le modèle peut fonctionner en local c'est un vrai plus.
 
 :memo: Si votre travail est réutilisé pour une publication, votre nom y sera associé.
 
+## Tecnhologies
+- LLMs
+- Dev moteur d'onthologie
+- ROS2
+- Recherche
+
+
 ## Ressources
 
 ### Articles 
@@ -97,7 +104,7 @@ In-Context Decision Making](https://arxiv.org/pdf/2305.11598.pdf)
 
 - [Integrating ontologies with LLMs](https://ai.plainenglish.io/integrating-ontologies-with-large-language-models-for-decision-making-bb1c600ce5a3)
 
-- [ex](https://medium.com/@kamaljp/meet-langchains-cutting-edge-agents-4-revolutionary-ai-llm-powered-decision-makers-8677045e8a69)
+- [Decision makers exemples](https://medium.com/@kamaljp/meet-langchains-cutting-edge-agents-4-revolutionary-ai-llm-powered-decision-makers-8677045e8a69)
 
 ### Exemple de framework
 
