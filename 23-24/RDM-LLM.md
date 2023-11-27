@@ -1,4 +1,4 @@
-# Robot Decision Maker avec LLM avec interaction vocale sur scénario GPSR
+# Robot Decision Maker avec LLM pour robot domestique
 
 ![ontho](img/ontho.webp)
 
@@ -26,7 +26,7 @@ Exemples de subdivision des tâches pour "Go to the kitchen and bring a banana" 
 - Return to "Original Location" with "Banana"
 - Deliver "Banana" to "User"
 
-On pourrait definir un fichier d'onthologie tel que celui-ci (simple exemple) :
+On pourrait definir (ou pas) un fichier d'onthologie tel que celui-ci :
 
 ```yaml
 Ontology:
