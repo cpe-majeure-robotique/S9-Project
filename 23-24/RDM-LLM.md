@@ -10,6 +10,7 @@ Des tests automatisés seront effectués avec pour donnée d'entrée des consign
 
 En sortie, il y aura une liste d'actions à afficher. Ces actions seront données selon les capacitées intrinsèque du robots. On pourra donc faire des tests autonmatiques pour différent robots avec différentes consignes.
 
+
 Exemples de subdivision des tâches pour "Go to the kitchen and bring a banana" : 
 
 - Identify "User" and "Command"
@@ -80,6 +81,11 @@ Tasks:
         - DeliverObject
 
 ```
+
+
+Si le modèle peut fonctionner en local c'est un vrai plus.
+
+:memo: Si votre travail est réutilisé pour une publication, votre nom y sera associé.
 
 ## Ressources
 
