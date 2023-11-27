@@ -2,11 +2,11 @@
 
 ## Objectifs
 
-Créer l'électronique pour la flotte de véhicules autonomones. Il s'agit de créer une carte la plus compacte possible, que l'on puisse instancier à différents endroits de chaque véhicule, afin d'interfacer les différents organes (feux, clignotant, moteur direction, moteur boite de vitesse, moteur deplacement, ...)
+Créer l'électronique pour la flotte de véhicules autonomones. Il s'agit de créer une carte la plus compacte possible, que l'on puisse instancier à différents endroits de chaque véhicule, afin d'interfacer les différents organes (feux, clignotant, moteur direction, moteur boite de vitesse, moteur deplacement, ...) au travers d'un bus CAN-FD.
 
 
 ## Tâches attendues
-- Proto sur carte Nucléo / Bread board
+- Proto sur carte Nucléo / Bread board (STM32G431xB)
 - Design compact / Assemblge / Test du PCB
 - Firmware générique
 - Boitier en impression 3D
@@ -15,7 +15,7 @@ Créer l'électronique pour la flotte de véhicules autonomones. Il s'agit de cr
 ## Techno
 - Design de carte électronique
 - Firmware C
-- bus CAN
+- bus CAN-FD
 - impression 3D
 - ROS (hardware_interface)
 
@@ -46,3 +46,5 @@ flowchart LR
     Board--> servo
     Board--> gpios
 ```
+
+
