@@ -6,9 +6,9 @@
 
 Faire un PoC d'un Manager de scénario pour la robocup (épreuve GPSR[^1] ) basé sur un LLM. L'entrée sera un texte, la sortie est une suite d'actions élémentaires correspondant aux capacités du robot.
 
-Des tests automatisés seront effectués avec pour donnée d'entrée des consignesissues de [ce générateur de commandes pour robots](https://github.com/kyordhel/GPSRCmdGen).
+Des tests automatisés seront effectués avec pour données d'entrées des consignes issues de [ce générateur de commandes pour robots](https://github.com/kyordhel/GPSRCmdGen).
 
-En sortie, il y aura une liste d'actions à afficher. Ces actions seront données selon les capacitées intrinsèque du robots. On pourra donc faire des tests autonmatiques pour différent robots avec différentes consignes.
+En sortie, il y aura une liste d'actions à afficher. Ces actions seront données selon les capacitées intrinsèque du robots. On pourra donc faire des tests automatiques pour différent robots avec différentes consignes.
 
 [^1]: GPSR : General Purpose Service Robot --> Similar to a smart speaker, the robot is asked to execute arbitrary commands requested by an operator
 
