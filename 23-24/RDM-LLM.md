@@ -4,7 +4,12 @@
 
 ## Objectifs
 
-Faire un PoC d'un Manager de scénario pour la robocup (épreuve GPSR[^1] ) basé sur un LLM. L'entrée sera un texte, la sortie est une suite d'actions élémentaires correspondant aux capacités du robot.
+Faire un PoC d'un Manager de scénario pour la robocup (épreuve GPSR[^1] ) basé sur un LLM. 
+L'entrée sera :
+- Un texte de consigne pour le robot (e.g. "Go to the kitchen and bring a banana")
+- Eventuellement une onthologie de robot ou une liste de capacités ou autres données permettant d'avoir la réponse la sortie attendue.
+
+La sortie est une suite d'actions élémentaires correspondant aux capacités du robot ( cf [exemple ci-dessous](#exemples-de-subdivision-des-tâches-pour-go-to-the-kitchen-and-bring-a-banana))
 
 Des tests automatisés seront effectués avec pour données d'entrées des consignes issues de [ce générateur de commandes pour robots](https://github.com/kyordhel/GPSRCmdGen).
 
@@ -12,7 +17,7 @@ En sortie, il y aura une liste d'actions à afficher. Ces actions seront donnée
 
 [^1]: GPSR : General Purpose Service Robot --> Similar to a smart speaker, the robot is asked to execute arbitrary commands requested by an operator
 
-Exemples de subdivision des tâches pour "Go to the kitchen and bring a banana" : 
+### Exemples de subdivision des tâches pour "Go to the kitchen and bring a banana" : 
 
 - Identify "User" and "Command"
 - Record Current "Location"
@@ -26,7 +31,7 @@ Exemples de subdivision des tâches pour "Go to the kitchen and bring a banana" 
 - Return to "Original Location" with "Banana"
 - Deliver "Banana" to "User"
 
-On pourrait definir (ou pas) un fichier d'onthologie tel que celui-ci :
+### On pourrait definir (ou pas) un fichier d'onthologie tel que celui-ci :
 
 ```yaml
 Ontology:
@@ -89,8 +94,7 @@ Si le model peut fonctionner en local c'est un vrai plus.
 :memo: Si votre travail est réutilisé pour une publication, votre nom y sera associé.
 
 ## Tecnhologies
-- LLMs
-- Dev moteur d'onthologie
+- LLM avec apprentissage d'onthologie
 - ROS2
 - Recherche
 
