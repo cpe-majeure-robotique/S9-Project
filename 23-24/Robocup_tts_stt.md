@@ -4,12 +4,13 @@
 
 ## Objectifs
 
-Développer une brique ROS2 de conversation en langage natuel : Un paquet pour le STT[^1], un paquet pour le TTS[^2], un paquet pour le NLP[^3] dans le cas du GPSR[^4].  
+Développer une brique ROS2 de conversation en langage natuel : Un paquet pour le STT[^1], un paquet pour le TTS[^2], un paquet pour le NLP[^3] dans le cas du GPSR[^4]. 
   
 [^1]: STT : Speech To Text  
 [^2]: TTS : Text To Speech  
 [^3]: NLP : Natural Language Processing  
 [^4]: GPSR : Global Purpuse Robot Services (Epreuve de robot de service générique à la Robocup)
+
 
 
 ## Tâches attendues
@@ -19,3 +20,15 @@ Développer une brique ROS2 de conversation en langage natuel : Un paquet pour l
 - Intégration d'un TTS[^2]  
 - Intégration d'un NLP[^3] 
 
+
+
+## Contraintes
+- Un petit état de l'art des technos doit être documenté
+- Les fichiers d'algo sont à séparer des fichiers de noeud ROS.
+
+
+
+## Technologies
+- ROS2
+- python
+- LLM
