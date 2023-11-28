@@ -50,6 +50,7 @@ Attributes:
     - TaskList
   User:
     - UserID
+    - Name
     - Location
   Location:
     - Name
@@ -73,7 +74,7 @@ Relations:
       to: Location
 
 Tasks:
-  - GenericTaskExample:
+  - GeneratedTaskExample:
       Steps:
         - IdentifyUser
         - RecordCurrentLocation

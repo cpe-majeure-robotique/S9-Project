@@ -77,21 +77,23 @@
 
 - Les critères de qualité technique comprennent :  
   - Le succès de votre projet
+  - Le niveau technologique
   - Le respect des bonnes pratiques 
 
 - Le critère de qualité du rendu comprend : 
-  - La qualité du code et la qualité globale de la restitution
-  - Les commits GitLab et l'évolution du Board Issues de gitLab **au quotidien**. Un minimum de 1 commit par personne (pas par groupe) devra être poussé toutes les 4h de projet, sans quoi il y aura des **pénalités** par commit manquant.
+  - La qualité du code et la qualité globale de la restitution (différents supports comme la/les vidéo(s) )
+  - L'organisation du repo GIT. Les commits et l'évolution du Board Issues de gitLab **au quotidien**. Un minimum de 1 commit par personne (pas par groupe) devra être poussé par journée de projet.
+  
 
-- J’attire votre attention sur le fait que le coef le plus élevé est une **note individuelle**. Aussi, un projet n’est pas validé d’office… un ancien étudiant de la majeure en a déjà fait les frais
+- J’attire votre attention sur le fait que le coef le plus élevé est une **note individuelle**. On a déjà eu des 2nd sessions de projet...
 
 # SUJETS :
 
 |N| Sujets                                                    | Nb groupes     | Pers. par grp |   Salle  | Contrainte ordi  |
 |-| --------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
-|1| [\[Autonomous Crawler Fleet\] Elec de commande](VehicAuto.md)|        3       |  2 à 4        |   I102   |                  |
-|2| [\[Robocup\] Brique conversationnelle](Robocup_tts_stt.md)   |        5       |  1 à 2        |   I102   |                  |
-|3| [\[Robocup\] Brique vision](Robocup_Vision.md)               |        5       |  1 à 2        |   I102   |                  |
+|1| [\[Autonomous Crawler Fleet\] Elec de commande](VehicAuto.md)|        3       |  2 à 4        |   I207   |                  |
+|2| [\[Robocup\] Brique conversationnelle](Robocup_tts_stt.md)   |        5       |  1 à 3        |   I207   |                  |
+|3| [\[Robocup\] Brique vision](Robocup_Vision.md)               |        5       |  1 à 3        |   I207   |                  |
 
 
 

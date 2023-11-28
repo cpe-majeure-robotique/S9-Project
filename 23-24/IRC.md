@@ -77,23 +77,32 @@
 
 | Critère d'évaluation                  | % note |
 | ------------------------------------- | ------ |
-| Note de groupe                        | 25 %   |
-| Note individuelle                     | 75 %   |
+| Qualité technique (note de groupe)    | 25 %   |
+| Qualité technique (note individuelle) | 30 %   |
+| Qualité du rendu                      | 25 %   |
+| Qualité de la présentation            | 20 %   |
 
-- Parmis les critères d'évaluation on retrouve :
+- Les critères de qualité technique comprennent :  
   - Le succès de votre projet
-  - La qualité du code et la qualité globale de la restitution (vidéo, doc, ...)
-  - La qualité de votre présentation (fond et forme)
+  - Le niveau technologique
   - Le respect des bonnes pratiques 
+
+- Le critère de qualité du rendu comprend : 
+  - La qualité du code et la qualité globale de la restitution (différents supports comme la/les vidéo(s) )
+  - L'organisation du repo GIT. Les commits et l'évolution du Board Issues de gitLab **au quotidien**. Un minimum de 1 commit par personne (pas par groupe) devra être poussé par journée de projet.
   
-- J’attire votre attention sur le fait que le coef le plus élevé est une **note individuelle**. Aussi, un projet n’est pas validé d’office… un ancien étudiant de la majeure en a déjà fait les frais
+
+- J’attire votre attention sur le fait que le coef le plus élevé est une **note individuelle**. On a déjà eu des 2nd sessions de projet...
+
 
 # SUJETS :
 
 |N| Sujets                                                    | Nb groupes     | Pers. par grp |   Salle  | Contrainte ordi  |
 |-| --------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
 |1| [Robot Decision Maker avec LLM ](RDM-LLM.md)              |        3       |  1 à 3        |   I102   |  GPU             |
-|2| [Poulailler connecté](Cotcot.md)                          |        1       |  1 à 4        |   I102   |       -          |
+|2| [\[Robocup\] Brique conversationnelle](Robocup_tts_stt.md)   |        5       |  1 à 3        |   I102   |                  |
+|3| [\[Robocup\] Brique vision](Robocup_Vision.md)               |        5       |  1 à 3        |   I102   |                  |
+|4| [Poulailler connecté](Cotcot.md)                             |        1       |  1 à 4        |   I102   |       -          |
 
 
 
