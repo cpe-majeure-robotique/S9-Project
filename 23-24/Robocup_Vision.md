@@ -4,7 +4,7 @@
 
 ## Objectifs
 
-Développer une brique ROS2 de vision permettant d'identifier et caractériser à partir de nimporte quelle caméra 3D :
+Développer une brique ROS2 de vision permettant d'identifier et caractériser à partir de n’importe quelle caméra 3D :
 - Les personnes
     - Associer une TF[^1] (x,y,z)
     - Attributs (e.g. genre, âge, lunettes, ...)
