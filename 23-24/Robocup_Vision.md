@@ -17,5 +17,13 @@ Développer une brique ROS2 de vision permettant d'identifier et caractériser �
 
 
 
-## Technologies
+## Contraintes
+- Un petit état de l'art des technos doit être documenté
+- Les fichiers d'algo sont à séparer des fichiers de noeud ROS.
+- Il ne faut pas utiliser les APIs spécifiques à des caméras, mais créer une API commune.
 
+## Technologies
+- ROS2
+- vision
+- deeplearning
+- python

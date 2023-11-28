@@ -94,8 +94,8 @@ Si le model peut fonctionner en local c'est un vrai plus.
 
 :memo: Si votre travail est réutilisé pour une publication, votre nom y sera associé.
 
-## Tecnhologies
-- LLM avec apprentissage d'onthologie
+## Technologies
+- LLM avec apprentissage d’ontologie
 - ROS2
 - Recherche
 
