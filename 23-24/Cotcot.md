@@ -17,6 +17,7 @@ Faire un hack d'une [trappe "automatique" low-cost](https://fr.aliexpress.com/it
     - Ajouter un ESP32-CAM avec un réseau de neurone permettant de compter le nombre de poules, voir de les différencier, voir de compter les oeufs.
     - Mettre un capteur [PIR](https://fr.aliexpress.com/item/1005005903120674.html) ou [radar](https://fr.aliexpress.com/item/1005005244405921.html) ou [RFID pour puces animaux](https://fr.aliexpress.com/item/32861558032.html) ou autre...
 - Rendre autonome en énergie (solaire + tampon batterie)
+- Mettre en veille ou couper l'alimentation des cartes / composants non exploités
 - Lier le système à Home Automation (ZigBee)
 
 ## Technologies
