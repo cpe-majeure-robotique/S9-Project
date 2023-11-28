@@ -23,6 +23,6 @@ Faire un hack d'une [trappe "automatique" low-cost](https://fr.aliexpress.com/it
 - ZigBee
 - ESP32-C6 avec gestions des modes de consommation
 - Energy harvesting
-- Un peu dl'élec
-- tensorflow lite micro, ou autre solution d'IA emabrquée
+- Un peu d'élec
+- tensorflow lite micro, ou autre solution d'IA embarqué [EXEMPLE](https://www.hackster.io/mjrobot/esp32-cam-tinyml-image-classification-fruits-vs-veggies-4ab970)
 - Home automation
