@@ -1,5 +1,7 @@
 # [Autonomous Crawler Fleet] Electronique de commande
 
+![Crawler](img/Crawler.png)
+
 ## Objectifs
 
 Créer l'électronique pour la flotte de véhicules autonomes. Il s'agit de créer une carte la plus compacte possible, que l'on puisse instancier à différents endroits de chaque véhicule, afin d'interfacer les différents organes (feux, clignotant, moteur direction, moteur boite de vitesse, moteur déplacement, ...) au travers d'un bus CAN-FD.
