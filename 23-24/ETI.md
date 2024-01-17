@@ -17,12 +17,27 @@
   - Premier commit **obligatoire** à pousser sur GitLab
 
 
-- 18/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*. Soutenance  sur votre poste de travail entre 9h et 12h par tirage au sort. Préparez un premier jeu de slides, une démo fonctionnelle (bien que incomplète), et une vidéo "brute" (sans montage) en cas d'échec de la démo. 
+- 18/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*. Soutenance  sur votre poste de travail entre 9h et 12h par tirage au sort. Préparez un premier jeu de slides, une démo fonctionnelle (bien que incomplète), et une vidéo "brute" (sans montage) en cas d'échec de la démo.
+  
+- 24/01 : Seulement pour l'équipe participant à l'inter-majeures. Envoyer :
+  - Titre du projet
+  - 1 image représentant leur projet
+  - 1 vidéo courte de teasing de leur projet (<3min)
+  - 1 présentation courte de leur projet (max. 5 slids)
 
 - 25/01 : 
-  - Fin des commits sur GitLab à 8h30 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
-  - Soutenances à 8h30
-  - Soutenance inter-majeures (ETI, IRC) du meilleur projet de chaque majeur en grand amphi à 13h30
+  - Fin des commits sur GitLab à 8h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
+  - Soutenances à 8h
+  - Bilan Majeure à 11h
+  - Apéro à 11h45 avec mise en commun
+  - Soutenance inter-majeures (ETI, IRC) du meilleur projet de chaque majeur en grand amphi à 14h :
+      - 1 vidéo courte (<3min)
+      - 1 présentation du comment ça marche
+      - 10min max tout compris
+      - Liste des prix possibles :
+          o   La présentation la plus fun
+          o   Le projet le plus utile
+          o   Le projet le plus technique/complexe
 
 - 26/01 - 02/02 : Travail complémentaire si exigé par les profs :
   - Fin des commit sur GitLab le 02/02 à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v2.0*
@@ -50,7 +65,7 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu jeudi 19 janvier de **9 à 11h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu jeudi 25 janvier de **8h à 11h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
