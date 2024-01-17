@@ -34,10 +34,10 @@
       - 1 vidéo courte (<3min)
       - 1 présentation du comment ça marche
       - 10min max tout compris
-      - Liste des prix possibles :
-          o   La présentation la plus fun
-          o   Le projet le plus utile
-          o   Le projet le plus technique/complexe
+      - Liste des prix possibles :   
+          o La présentation la plus fun  
+          o Le projet le plus utile  
+          o Le projet le plus technique/complexe   
 
 - 26/01 - 02/02 : Travail complémentaire si exigé par les profs :
   - Fin des commit sur GitLab le 02/02 à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v2.0*
