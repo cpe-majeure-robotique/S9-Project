@@ -77,12 +77,12 @@
 
 - Coefficients
 
-| Critère d'évaluation                  | % note |
-| ------------------------------------- | ------ |
-| Qualité technique (note de groupe)    | 25 %   |
-| Qualité technique (note individuelle) | 30 %   |
-| Qualité du rendu                      | 25 %   |
-| Qualité de la présentation            | 20 %   |
+| Critère d'évaluation                           | % note |
+| ---------------------------------------------- | ------ |
+| Qualité technique (note de groupe)             | 25 %   |
+| Qualité technique (note individuelle)          | 30 %   |
+| Qualité du rendu                               | 25 %   |
+| Qualité de la présentation (note individuelle) | 20 %   |
 
 - Les critères de qualité technique comprennent :  
   - Le succès de votre projet
