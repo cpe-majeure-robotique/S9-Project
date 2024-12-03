@@ -46,9 +46,12 @@
   - **README** : Chaque projet doit avoir un README.md adapté selon le [template fourni en snippet](https://gitlab.com/snippets/1917426)
 
 - **Des vidéos**
-  - Une vidéo de 30s à 1 min présentant le projet (pitch attractif)
+  
+  - Une vidéo d'environ 1 min présentant le projet avec une démonstration synthétique
+
   - Une vidéo plus longue sous la forme d’un tutoriel vidéo, permettant la mise en œuvre de votre projet
-  - Pour chaque vidéo, vous ferez apparaître :
+
+  - Pour __chaque__ vidéo, vous ferez apparaître :
     - Le nom du projet
     - Le logo CPE
     - Le nom des étudiants
@@ -59,17 +62,19 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu vendredi 24 janvier de **9h à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- :calendar: Vos soutenances auront lieu vendredi 24 janvier de **9h à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
-- Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
+- :clock9: Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
-- Le sujet doit être présenté très rapidement pour passer ensuite à vos choix technologiques, avec les développements et problématiques associées. A la fin de la présentation, l’auditoire doit avoir une idée clair de ce qui fonctionne et ce qui ne fonctionne pas. Les problèmes rencontrés ne doivent pas monopoliser votre temps de parole.
+- :construction: Le sujet doit être présenté très rapidement pour passer ensuite à vos choix technologiques, avec les développements et problématiques associées. A la fin de la présentation, l’auditoire doit avoir une idée clair de ce qui fonctionne et ce qui ne fonctionne pas. Les problèmes rencontrés ne doivent pas monopoliser votre temps de parole.
 
-- Dans votre présentation vous devrez justifier d’un bilan personnel et d’un bilan de groupe. Gitlab avec ses commits et issues seront d’une aide précieuse à cet effet. Le slide final de la présentation devra contenir la répartition de la charge de travail de chaque individu du groupe, pour les différentes tâches, et en terme de production globale ? 
+- :bar_chart: Dans votre présentation vous devrez justifier d’un bilan personnel et d’un bilan de groupe. Gitlab avec ses commits et issues seront d’une aide précieuse à cet effet. Le slide final de la présentation devra contenir la répartition de la charge de travail de chaque individu du groupe, pour les différentes tâches, et en terme de production globale ? 
 
-- Dans le temps qui vous est imparti, vous devrez faire une démo sous la forme d’une vidéo. 
+- :seedling: Une slide devra présenter une évaluation de l'impact du projet sur l'environnement, et le cas échéant, les choix qui ont été fait pour limiter cet impact.   
 
-- Un bref temps de question suivra chaque présentation
+- :clapper: Dans le temps qui vous est imparti, vous devrez faire une démo sous la forme d’une vidéo. 
+
+- :question: Un bref temps de question suivra chaque présentation
 
 
 
@@ -88,6 +93,7 @@
   - Le succès de votre projet
   - Le niveau technologique
   - Le respect des bonnes pratiques 
+  - La prise en compte de l'impact sur l'environnement
 
 - Le critère de qualité du rendu comprend : 
   - La qualité du code et la qualité globale de la restitution (différents supports comme la/les vidéo(s) )
@@ -102,7 +108,7 @@
 |N| Sujets                                                       | Nb groupes     | Pers. par grp |   Salle  | Contrainte ordi  |
 |-| ------------------------------------------------------------ | -------------- | ------------- | -------- | ---------------- |
 |1| [Escape Game ](EscapeGame.md)                                |        2       |  2 à 5        |          |                  |
-|2| [LIMO ](LIMO.md)                                             |        4       |  1 à 3        |          |                  |
+|2| [LIMO ](LIMO.md)                                             |        4       |  2 à 3        |          |                  |
 
 
 
