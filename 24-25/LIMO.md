@@ -7,12 +7,12 @@
   </video>
 
 ## Objectifs
-- Usage de un ou 2 robots LIMO pour un scénario robotique à définir. 
+- Usage d'un robot LIMO pour un scénario robotique à définir. 
 - Demo adhoc avec tous les types de roues
 
 ## Tâches attendues
 - Migrer les LIMO en ROS2 (humble). Repo fourni
-- Proposer un scénario intégré à la salle robotique
+- Proposer un scénario intégré à la salle de projet
 - Implémenter le scénario proposé avec une démo
 - Préparez une démo adhoc avec pilotage volant :
     - en omniwheel
