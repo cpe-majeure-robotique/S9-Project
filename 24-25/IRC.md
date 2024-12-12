@@ -44,7 +44,7 @@
 - 24/01 : 
   - Fin des commit sur GitLab à 9h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
   - Soutenances de 9h à 12h
-  - Apéro...
+  - :tropical_drink: Apéro à 12h avec mise en commun
 
 - + : Travail complémentaire si exigé par les profs :
   - Livraison sous forme de **Tag** nommé *v2.0*

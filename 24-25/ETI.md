@@ -31,7 +31,7 @@
   - Fin des commits sur GitLab à 8h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
   - Soutenances à 8h
   - Bilan Majeure à 11h ?????????????????
-  - Apéro à 12h avec mise en commun
+  - :tropical_drink: Apéro à 12h avec mise en commun
   - Soutenance inter-majeures (ETI, IRC) du meilleur projet de chaque majeur en grand amphi à 14h :
       - 1 vidéo courte (<3min)
       - 1 présentation du comment ça marche (max 5 slides)
