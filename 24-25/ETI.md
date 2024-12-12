@@ -112,6 +112,7 @@
 |-| -------------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
 |1| [Escape Game ](EscapeGame.md)                                  |        3       |  2 à 5        |          |                  |
 |2| [\[Autonomous Crawler Fleet\] Localisation ](VehicAuto2.md)    |        3       |  2 à 4        |          |                  |
+|3| [\[Autonomous Crawler Fleet\] Brique de vision ](VehicAuto3.md)  |        3       |  2 à 4        |          |                  |
 
 # Aides :
 - [Tuto GIT](https://www.youtube.com/watch?v=gp_k0UVOYMw)

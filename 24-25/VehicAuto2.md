@@ -1,4 +1,4 @@
-# [Autonomous Crawler Fleet] Localisation
+# [Autonomous Crawler Fleet] Localisation et mapping
 
 ![Crawler](img/Crawler.png)
 
