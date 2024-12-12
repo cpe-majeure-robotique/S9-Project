@@ -4,15 +4,17 @@
 
 ![GitLab Board](https://raw.githubusercontent.com/cpe-majeure-robotique/S9-Project-19-20/master/images/GitLab_Board.png)
 
-- ???? : 
+- 16/12 : 
   - Proposition des sujets / Discussion autour des sujets proposés
   - Définition des groupes
   - Inscriptions à un sujet
   - Début des réflexions
+  - Eventuellement, notez ce que vous voudriez ramener de chez vous après les vacances
 
 - 06/01 : 
   - Appropriation/ajustement du sujet formalisé depuis la dernière fois
-  - Dernier délai pour passer d'éventuelles commandes (cas particulier soumis à discussions). Noter ce que vous voudriez ramener de chez vous après les vacances
+  - Prise en main de l'environnement de travail
+  - Dernier délai pour passer d'éventuelles commandes (cas particulier soumis à discussions). 
   - Organisation **obligatoire** de votre [Board Issues Gitlab](https://www.youtube.com/watch?v=CiolDtBIOA0)
   - Premier commit **obligatoire** à pousser sur GitLab
 
@@ -28,18 +30,16 @@
 - 23/01 :
   - Fin des commits sur GitLab à 8h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
   - Soutenances à 8h
-  - Bilan Majeure à 11h ???????????????
+  - Bilan Majeure à 11h ?????????????????
   - Apéro à 12h avec mise en commun
   - Soutenance inter-majeures (ETI, IRC) du meilleur projet de chaque majeur en grand amphi à 14h :
       - 1 vidéo courte (<3min)
-      - 1 présentation du comment ça marche
+      - 1 présentation du comment ça marche (max 5 slides)
       - 10min max tout compris
       - Liste des prix possibles :   
           o La présentation la plus fun  
           o Le projet le plus utile  
           o Le projet le plus technique/complexe   
-
-
 
 
 
@@ -56,9 +56,12 @@
   - **README** : Chaque projet doit avoir un README.md adapté selon le [template fourni en snippet](https://gitlab.com/snippets/1917426)
 
 - **Des vidéos**
-  - Une vidéo de 30s à 1 min présentant le projet (pitch attractif)
+  
+  - Une vidéo d'environ 1 min présentant le projet avec une démonstration synthétique
+
   - Une vidéo plus longue sous la forme d’un tutoriel vidéo, permettant la mise en œuvre de votre projet
-  - Pour chaque vidéo, vous ferez apparaître :
+
+  - Pour __chaque__ vidéo, vous ferez apparaître :
     - Le nom du projet
     - Le logo CPE
     - Le nom des étudiants
@@ -69,17 +72,21 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu jeudi 23 janvier de **8h à 11h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- :calendar: Vos soutenances auront lieu jeudi 23 janvier de **8h à 11h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
-- Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
+- :clock9: Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
-- Le sujet doit être présenté très rapidement pour passer ensuite à vos choix technologiques, avec les développements et problématiques associées. A la fin de la présentation, l’auditoire doit avoir une idée clair de ce qui fonctionne et ce qui ne fonctionne pas. Les problèmes rencontrés ne doivent pas monopoliser votre temps de parole.
+- :construction: Le sujet doit être présenté très rapidement pour passer ensuite à vos choix technologiques, avec les développements et problématiques associées. A la fin de la présentation, l’auditoire doit avoir une idée clair de ce qui fonctionne et ce qui ne fonctionne pas. Les problèmes rencontrés ne doivent pas monopoliser votre temps de parole.
 
-- Dans votre présentation vous devrez justifier d’un bilan personnel et d’un bilan de groupe. Gitlab avec ses commits et issues seront d’une aide précieuse à cet effet. Le slide final de la présentation devra contenir la répartition de la charge de travail de chaque individu du groupe, pour les différentes tâches, et en terme de production globale ? 
+- :bar_chart: Dans votre présentation vous devrez justifier d’un bilan personnel et d’un bilan de groupe. Gitlab avec ses commits et issues seront d’une aide précieuse à cet effet. Le slide final de la présentation devra contenir la répartition de la charge de travail de chaque individu du groupe, pour les différentes tâches, et en terme de production globale ? 
 
-- Dans le temps qui vous est imparti, vous devrez faire une démo sous la forme d’une vidéo. 
+- :seedling: Une slide devra présenter une évaluation de l'impact du projet sur l'environnement, et le cas échéant, les choix qui ont été fait pour limiter cet impact.   
 
-- Un bref temps de question suivra chaque présentation
+- :clapper: Dans le temps qui vous est imparti, vous devrez faire une démo sous la forme d’une vidéo. 
+
+- :question: Un bref temps de question suivra chaque présentation
+
+
 
 
 
@@ -98,6 +105,7 @@
   - Le succès de votre projet
   - Le niveau technologique
   - Le respect des bonnes pratiques 
+  - La prise en compte de l'impact sur l'environnement
 
 - Le critère de qualité du rendu comprend : 
   - La qualité du code et la qualité globale de la restitution (différents supports comme la/les vidéo(s) )

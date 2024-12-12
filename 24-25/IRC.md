@@ -1,4 +1,4 @@
-# S9-Project-22-23
+# S9-Project-24-25
 
 # Déroulement du projet
 
@@ -24,9 +24,22 @@
 
 - 06/01 : Début du second Sprint
 
+- 21/01 : Seulement pour l'équipe participant à l'inter-majeures. Envoyer :
+  - Titre du projet
+  - 1 image représentant leur projet
+  - 1 vidéo courte de teasing de leur projet (<3min)
+  - 1 présentation courte de leur projet (max. 5 slids)
+
 - 23/01 PM : 
   - Fin du second sprint
-  - Présentation du meilleur projet dans le grand amphi (tous les 5A réunis) 
+  - Soutenance inter-majeures (ETI, IRC) du meilleur projet de chaque majeur en grand amphi à 14h :
+      - 1 vidéo courte (<3min)
+      - 1 présentation du comment ça marche (max 5 slides)
+      - 10min max tout compris
+      - Liste des prix possibles :   
+          o La présentation la plus fun  
+          o Le projet le plus utile  
+          o Le projet le plus technique/complexe   
 
 - 24/01 : 
   - Fin des commit sur GitLab à 9h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
