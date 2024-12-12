@@ -1,7 +1,7 @@
 # Enoncés de projet 
 
 ## 2024-2025
-<!-- - [ETI](24-25/ETI.md) -->
+- [ETI](24-25/ETI.md)
 - [IRC](24-25/IRC.md)
 
 <!--
