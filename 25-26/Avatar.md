@@ -23,10 +23,10 @@
 ## Technologies
 - LLM
 - Deeplearning
-- Interaction Homme-Robot (...Deepface,Mediapipe, Openpose, Whisper ...)
+- Interaction Homme-Robot (...Deepface, Mediapipe, Openpose, Whisper ...)
 - Impression 3D obligatoire
 - ESP32
-- Pour l'avatar, par exemple , Pygame,  Ogre3D, Panda3D, Unity 
+- Pour l'Avatar; par exemple , Pygame,  Ogre3D, Panda3D, Unity 
 
 
 
