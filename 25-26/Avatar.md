@@ -3,7 +3,7 @@
 ![avatar](img/avatar.webp)
 
 ## Objectifs
-- Créer un avatar permettant de faire d'interagir avec un humain
+- Créer un avatar permettant d'interagir avec un humain
   - Prise en compte du positionnement des mains / yeux de l'interlocuteur
   - Intercation vocale en langage naturel
   - Connaissance détaillée de CPE Lyon (formations, asso BDE, ...)
