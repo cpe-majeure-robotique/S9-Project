@@ -2,6 +2,7 @@
 
 ![avatar](img/avatar.webp)
 
+
 ## Objectifs
 - Créer un avatar permettant d'interagir avec un humain
   - Prise en compte du positionnement des mains / yeux de l'interlocuteur
@@ -28,8 +29,7 @@
 - ESP32
 - Pour l'Avatar; par exemple , Pygame,  Ogre3D, Panda3D, Unity 
 
-
-
+![avatar baxter](img/baxter_avatar.png)
 
 
 
