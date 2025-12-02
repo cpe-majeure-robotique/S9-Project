@@ -35,7 +35,7 @@
 
 - [Doc du LIMO en ROS2](https://github.com/agilexrobotics/limo_ros2_doc/blob/master/LIMO-ROS2-humble(EN).md)  
 
-- [Repo ROS2 du LIMO](https://github.com/agilexrobotics/limo_ros2)
+- [ROS2 Jazzy en docker sur clef USB et instructions pour le LIMO](https://gitlab.com/js-ros/limo2_ros/-/tree/dev?ref_type=heads)
 
 
 
