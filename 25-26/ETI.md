@@ -1,25 +1,27 @@
-# S9-Project-24-25
+# S9-Project-25-26
 
 # Déroulement du projet
 
 ![GitLab Board](https://raw.githubusercontent.com/cpe-majeure-robotique/S9-Project-19-20/master/images/GitLab_Board.png)
 
-- 16/12 : 
+- 8/12 : 
   - Proposition des sujets / Discussion autour des sujets proposés
   - Définition des groupes
   - Inscriptions à un sujet
   - Début des réflexions
+  - Organisation **obligatoire** de votre [Board Issues Gitlab](https://www.youtube.com/watch?v=CiolDtBIOA0)
+  - Premier commit **obligatoire** à pousser sur GitLab
   - Eventuellement, notez ce que vous voudriez ramener de chez vous après les vacances
 
-- 06/01 : 
+- 10/12 : 
   - Appropriation/ajustement du sujet formalisé depuis la dernière fois
   - Prise en main de l'environnement de travail
   - Dernier délai pour passer d'éventuelles commandes (cas particulier soumis à discussions). 
-  - Organisation **obligatoire** de votre [Board Issues Gitlab](https://www.youtube.com/watch?v=CiolDtBIOA0)
-  - Premier commit **obligatoire** à pousser sur GitLab
+  - Terminer organisation de votre [Board Issues Gitlab](https://www.youtube.com/watch?v=CiolDtBIOA0)
+  - Premier commit à pousser sur GitLab
 
 
-- 16/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*. Soutenance  sur votre poste de travail entre 9h et 12h par tirage au sort. Préparez un premier jeu de slides, une démo fonctionnelle (bien que incomplète), et une vidéo "brute" (sans montage) en cas d'échec de la démo.
+- 9/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** nommé *vIntermediate*. Soutenance  sur votre poste de travail entre 9h et 12h par tirage au sort. Préparez un premier jeu de slides, une démo fonctionnelle (bien que incomplète), et une vidéo "brute" (sans montage) en cas d'échec de la démo.
   
 - 21/01 : Seulement pour l'équipe participant à l'inter-majeures. Envoyer :
   - Titre du projet
@@ -27,10 +29,10 @@
   - 1 vidéo courte de teasing de leur projet (<3min)
   - 1 présentation courte de leur projet (max. 5 slids)
 
-- 23/01 :
-  - Fin des commits sur GitLab à 8h (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
-  - Soutenances à 8h
-  - Bilan Majeure à 11h ?????????????????
+- 22/01 :
+  - Fin des commits sur GitLab à 8h30 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v1.0*
+  - Soutenances à 8h30
+  - Bilan Majeure à 11h ????
   - :tropical_drink: Apéro à 12h avec mise en commun
   - Soutenance inter-majeures (ETI, IRC) du meilleur projet de chaque majeur en grand amphi à 14h :
       - 1 vidéo courte (<3min)
@@ -43,8 +45,8 @@
 
 
 
-- 27/01 - 31/01 : Travail complémentaire si exigé par les profs :
-  - Fin des commit sur GitLab le 02/02 à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v2.0*
+- 26/01 - 30/01 : Travail complémentaire si exigé par les profs :
+  - Fin des commit sur GitLab le 01/02 à 23h59 (**fin des rendus**) et livraison sous forme de **Tag** nommé *v2.0*
 
 
 # Rendus : 
@@ -72,7 +74,7 @@
 
 # Soutenances : 
  
-- :calendar: Vos soutenances auront lieu jeudi 23 janvier de **8h à 11h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- :calendar: Vos soutenances auront lieu jeudi 22 janvier de **8h30 à 11h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - :clock9: Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
@@ -118,9 +120,8 @@
 
 |N| Sujets                                                         | Nb groupes     | Pers. par grp |   Salle  | Contrainte ordi  |
 |-| -------------------------------------------------------------- | -------------- | ------------- | -------- | ---------------- |
-|1| [Escape Game ](EscapeGame.md)                                  |        3       |  2 à 5        |          |                  |
-|2| [\[Autonomous Crawler Fleet\] Localisation ](VehicAuto2.md)    |        3       |  2 à 4        |          |                  |
-|3| [\[Autonomous Crawler Fleet\] Brique de vision ](VehicAuto3.md)  |        3       |  2 à 4        |          |                  |
-
+|1| [Préhension d'Objets en Visual Servoing avec bras xArm7](VisualServoing.md)|        2       |  2 à 4        |          |                  |
+|2| [Navigation MPPI Véhicule autonome](VehicAuto2526.md)|        2       |  2 à 4        |          |                  |
+|3| [Peluche Audio](AudioPlush.md)                                 |        1       |  1 à 3        |          |                  |
 # Aides :
 - [Tuto GIT](https://www.youtube.com/watch?v=gp_k0UVOYMw)
