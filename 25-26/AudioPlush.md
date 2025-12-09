@@ -1,19 +1,21 @@
-# 🧸 Peluche Audio Interactive
+# 🧸 Peluche Audio 
+
+![](img/cartedev.png)
 
 ## 🎯 Contexte du Projet
 
 Dans le cadre d'une sollicitation d'une association à but non lucratif, un projet (un peu en marge des projets de la majeure) est proposé en électronique pour des contenus audio. L'idée est de réaliser un PoC (Proof of Concept) d'une peluche audio très bas coût qui puisse avoir deux cibles :
 
-- **Les enfants dans les zones du monde sous tension** (guerre, situations précaires, etc.) : version gratuite avec des histoires dans leur langue, encourageantes et réconfortantes
-- **Les enfants occidentaux** : version payante pour financer les versions envoyées gratuitement, avec des contenus de livres audio classiques
+- Les enfants dans les zones du monde sous tension (guerre, situations précaires, etc.) : version gratuite avec des histoires dans leur langue, encourageantes et réconfortantes
+- Les enfants occidentaux : version payante pour financer les versions envoyées gratuitement, avec des contenus de livres audio classiques
 
 ---
 
 ## 🔧 Évolution Technique
 
-Un premier prototype a été conçu avec une puce ESP32-A1S, mais celle-ci est en voie d'obsolescence. L'idée est de partir sur une puce **Ai-M61-32S** ou autre option à proposer.
-
 Un partenariat pourrait être établi pour commencer avec la peluche mouton de [Kulumi](https://kulumi.org/wp-content/uploads/2023/05/KULUMI-Sheep-brochure.pdf), en remplaçant leur boîtier par un nouveau boîtier qui répond mieux au besoin (leur modèle est cher, et ils ne veulent pas investir dans un nouveau hardware).
+
+Un premier prototype a été conçu avec une puce ESP32-A1S, mais celle-ci est en voie d'obsolescence. L'idée est de partir sur une puce **Ai-M61-32S** ou autre option à proposer.
 
 Il s'agit de refaire le boîtier noir du player audio en étant rétro-compatible avec le mouton (par la suite, d'autres peluches pourront être envisagées). Le mouton doit donc contenir toutes les fonctionnalités et spécifications (puissance, interface utilisateur, autonomie, reprise de la lecture au démarrage, etc.) du mouton initial, tout en embarquant les fonctionnalités suivantes :
 
@@ -68,8 +70,6 @@ Réaliser un PoC logiciel (firmware + App) avec les fonctionnalités suivantes :
 ### Réalisation Matérielle
 
 Réaliser une maquette informatique du matériel avec un PCB, un boîtier et une intégration de ces composants qui réponde au cahier des charges.
-
-![](img/S8c97ed3c2c3a4406b142b44b1b4da4f4Z.avif)
 
 ---
 
