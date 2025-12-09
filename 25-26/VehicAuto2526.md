@@ -1,40 +1,63 @@
-# Navigation MPPI Véhicule autonome
+# 🚗 Navigation MPPI pour Véhicule Autonome de Type Crawler
 
 ![Crawler](img/Crawler.png)
 
-## Objectifs
+---
 
-Continuez le développement du véhicule autonome de type "Crawler"
+## 🎯 Objectifs
 
+Continuer le développement du véhicule autonome de type "Crawler" en intégrant des fonctionnalités avancées de navigation et de perception.
 
-## Tâches attendues
+---
 
-**1. Côté Jetson / ROS : **
+## 📋 Tâches Attendues
+
+### **1. Côté Jetson / ROS2**
+
+#### Tâches Principales
+
 - Installer Jetson en Ubuntu 24.04 avec ROS2 Jazzy
-- Faire rouler le Crawler dans Gazebo Harmonic avec Nav2 (peut-être fait sur PC école)
-- Prendre en compte la caméra 3D dans Nav2 (peut-être fait sur PC école)
-- Utilisez le local planner MPPI dans Nav2 (peut-être fait sur PC école)
-- Communiquer en bus CAN avec la carte moteur (peut-être fait sur PC école)
-- Ecrire driver ros2_control de la partie motorisation / direction du véhicule (peut-être fait sur PC école)
-- [Optionnel] Intégrer IMU dans Nav2
+- Faire rouler le Crawler dans Gazebo Harmonic avec Nav2 (peut être fait sur PC école)
+- Prendre en compte la caméra 3D dans Nav2 (peut être fait sur PC école)
+- Utiliser le local planner MPPI dans Nav2 (peut être fait sur PC école)
+- Communiquer en bus CAN avec la carte moteur (peut être fait sur PC école)
+- Écrire le driver ros2_control de la partie motorisation/direction du véhicule (peut être fait sur PC école)
 
+#### Tâches Optionnelles
 
-**2. Côté embarqué : **
-- Finaliser firmware du pare-chocs arrière
-- Ecrire firmware de la carte moteur
-- [Optionnel] Intégrer carte radar
-- [Optionnel] Finaliser et intégrer carte IO pour lumières
-- [Optionnel] Finaliser et intégrer carte BMS pour gestion batteries à chaud
+- Intégrer l'IMU dans Nav2
 
+---
 
+### **2. Côté Embarqué**
 
-## Techno
+#### Tâches Principales
 
-- Jetson Xavier Orin
-- ROS2 (Nav2, Gazebo, ...)
-- Python, C, C++
-- STM32 et Bus CAN
+- Finaliser le firmware du pare-chocs arrière
+- Écrire le firmware de la carte moteur
 
+#### Tâches Optionnelles
 
+- Intégrer la carte radar
+- Finaliser et intégrer la carte IO pour les lumières
+- Finaliser et intégrer la carte BMS pour la gestion des batteries à chaud
 
+---
+
+## 🛠️ Technologies Utilisées
+
+### Matériel
+
+- **Jetson Xavier Orin** : Plateforme de calcul embarquée
+- **STM32** : Microcontrôleurs pour les fonctions embarquées
+- **Bus CAN** : Communication entre les cartes électroniques
+
+### Logiciels
+
+- **ROS2 Jazzy** : Framework robotique
+- **Nav2** : Stack de navigation autonome
+- **Gazebo Harmonic** : Simulateur robotique
+- **Python, C, C++** : Langages de programmation
+
+---
 
